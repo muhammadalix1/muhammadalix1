@@ -68,5 +68,5 @@ I'm a Software Engineer passionate about creating impactful digital experiences.
 
 - **Microservices Architecture:** Designed and implemented scalable microservices architectures.
 
-- **Mobile Development:** Designed and built cross-platform mobile apps, focusing on creating intuitive interfaces and smooth functionality.
+- **Mobile App Development:** Designed and built cross-platform mobile apps, focusing on creating intuitive interfaces and smooth functionality.
 
