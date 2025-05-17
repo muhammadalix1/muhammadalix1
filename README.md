@@ -12,6 +12,10 @@ I'm a Software Engineer passionate about creating impactful digital experiences.
 
 ### 🛠️ Technologies & Tools
 
+**Programming Languages:**
+
+| ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+|---|---|---|---|---|
 
 **Frontend:**
 
@@ -51,13 +55,6 @@ I'm a Software Engineer passionate about creating impactful digital experiences.
 
 | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square) | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square) | ![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?logo=appwrite&logoColor=white&style=flat-square) |
 |---|---|---|
-
----
-
-**Programming Languages:**
-
-| ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
-|---|---|---|---|---|
 
 
 
