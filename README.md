@@ -42,7 +42,7 @@ I'm a Software Engineer passionate about creating impactful digital experiences.
 |---|---|
 
 
-**Mobile Development:**
+**Mobile App Development:**
 
 | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat-square) |
 |---|
