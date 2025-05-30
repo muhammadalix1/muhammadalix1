@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Muhammad Ali! 👋
 
-### Software Engineer | Full Stack Software Developer
+### Software Engineer | Full Stack Developer
 
 ---
 
