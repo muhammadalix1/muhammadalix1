@@ -68,8 +68,8 @@ I'm a Software Engineer passionate about creating impactful digital experiences.
 ### 📂 Projects
 
 - [**RentEase**](https://github.com/muhammadSHOUKATSYED/rent-ease-3.6): Product renting mobile app built with React Native.
-- [**Pinged**](https://github.com/yourusername/pinged): A full-stack social web app using Next.js, Express.js, PostgreSQL, and Prisma ORM.
-- [**TravelKaro**](https://github.com/yourusername/travel-app): A travel-focused full-stack social app built with React, Express.js, and MongoDB.
+- [**Pinged**](https://github.com/muhammadSHOUKATSYED/pinged): A full-stack social web app using Next.js, Express.js, PostgreSQL, and Prisma ORM.
+- [**TravelKaro**](https://github.com/muhammadSHOUKATSYED/travel-app): A travel-focused full-stack social app built with React, Express.js, and MongoDB.
 
 ---
 
