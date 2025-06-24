@@ -62,7 +62,7 @@ I'm a Software Engineer passionate about creating impactful digital experiences.
 | ![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white&style=flat-square) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) |
 |---|---|
 
-**Blockchain Tools:**
+**Blockchain:**
 
 | ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=flat-square) | ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat-square) | ![MetaMask](https://img.shields.io/badge/-MetaMask-F6851B?logo=metamask&logoColor=white&style=flat-square) | ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3dotjs&logoColor=white&style=flat-square) |
 |---|---|---|---|
