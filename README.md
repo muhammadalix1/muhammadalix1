@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Muhammad Ali! 👋
 
-### Software Engineer | Architect of Full Stack & Mobile Solutions | Exploring Blockchain & AI
+### Software Engineer | Architect of Full Stack & Mobile Solutions | Exploring iOS Development and Blockchain
 
 ---
 
