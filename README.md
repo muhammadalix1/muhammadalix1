@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Muhammad Ali! 👋
 
-### Software Engineer | Architect of Full Stack & Mobile Solutions | MERN & PERN | React Native | Researching Blockchain and iOS Architecture | FAST NUCES Graduate
+### Software Engineer | Full Stack Developer | JavaScript | MERN | SQL/PostgreSQL | Mobile App Developer | React Native | AWS Cloud | CI/CD | FAST '25
 
 ---
 
