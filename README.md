@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Muhammad Ali! 👋
 
-### Softwre Engineer | Full Stack Developer | MERN | SQL/PostgreSQL | Mobile App Developer | React Native | DevOps
+### Softwre Engineer | Full Stack Developer | MERN | SQL/NoSQL | Mobile App Developer | React Native | DevOps
 
 ---
 
