@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Muhammad Ali! 👋
 
-### Software Engineer | Software Engineer | Architect of Scalable Full Stack & Mobile Solutions | Cloud | CI/CD | FAST '25
+### Softwre Engineer | Full Stack Developer | MERN | SQL/PostgreSQL | CI/CD | Mobile App Developer | React Native | DevOps
 
 ---
 
